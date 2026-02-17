@@ -80,7 +80,7 @@ int main() {
     name: 'Java',
     extension: 'java',
     color: 'text-red-400',
-    apiUrl: 'https://java-app-e7h2.onrender.com/run-java',
+    apiUrl: 'https://coderunner-klzl.onrender.com/api/v2/run-java',
     defaultCode: `// Welcome to the Online Code Runner
 import java.util.*;
 
